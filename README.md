@@ -1,12 +1,12 @@
-#Three.js Beautiful Plane
+# Three.js Beautiful Plane
 ----------------------------------
-### This is a react component of a threejs plane.### [check out on github](https://github.com/PeterFromHell/threejs-plane)
+### This is a react component of a threejs plane. [check out on github](https://github.com/PeterFromHell/threejs-plane)
 
-#Installation#
-### use npm install:###
+# Installation
+### use npm install:
 `npm install threejs-plane --save`
 
-#Usage#
+# Usage
 ```
 import React from 'react'
 import {ThreejsPlane} from 'threejs-plane'
