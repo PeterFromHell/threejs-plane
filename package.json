@@ -1,5 +1,5 @@
 {
-  "name": "threejs-plane",
+  "name": "@PeterFromHell/threejs-plane",
   "version": "1.0.1",
   "description": "A Beautiful Plane Made By Three.js for React, inspired by Chris Courses.",
   "main": "dist/cjs/index.js",
@@ -10,7 +10,7 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
-  "author": "",
+  "author": "PeterFromHell",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.20.12",
