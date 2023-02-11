@@ -1,6 +1,6 @@
 {
   "name": "@PeterFromHell/threejs-plane",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Beautiful Plane Made By Three.js for React, inspired by Chris Courses.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
